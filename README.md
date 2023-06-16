@@ -1,6 +1,8 @@
 # Automatic Image Tagging for Fashion E-commerce
 The objective is to develop a system that can classify images of clothing items and accessories, enabling visual search capabilities in fashion e-commerce.
 
+Dataset: https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7
+
 <img width="1413" alt="image" src="https://github.com/SamanZargarzadeh/Automatic-Image-Tagging-for-Fashion-E-commerce/assets/88157400/2c6fec2c-77e2-447c-b500-d983c312635a">
 <img width="1413" alt="Screen Shot 2023-06-15 at 4 08 29 PM" src="https://github.com/SamanZargarzadeh/Automatic-Image-Tagging-for-Fashion-E-commerce/assets/88157400/f047148e-02bc-4342-b94d-0e23ab7a3adc">
 <img width="1413" alt="image" src="https://github.com/SamanZargarzadeh/Automatic-Image-Tagging-for-Fashion-E-commerce/assets/88157400/5e9fb61f-b323-4dae-9742-2e7a7656bd89">
